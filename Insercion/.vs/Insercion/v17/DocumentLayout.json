@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Insercion\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Escritorio\\Github\\Algoritmos\\Insercion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{260DF161-64E1-4677-B95C-9FC6ABF97FE1}|Insercion\\Insercion.vcxproj|C:\\Users\\HP\\source\\repos\\Insercion\\Insercion\\Insercion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{260DF161-64E1-4677-B95C-9FC6ABF97FE1}|Insercion\\Insercion.vcxproj|C:\\Users\\HP\\OneDrive\\Escritorio\\Github\\Algoritmos\\Insercion\\Insercion\\Insercion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{260DF161-64E1-4677-B95C-9FC6ABF97FE1}|Insercion\\Insercion.vcxproj|solutionrelative:Insercion\\Insercion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Insercion.cpp",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Insercion\\Insercion\\Insercion.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\Github\\Algoritmos\\Insercion\\Insercion\\Insercion.cpp",
               "RelativeDocumentMoniker": "Insercion\\Insercion.cpp",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Insercion\\Insercion\\Insercion.cpp",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\Github\\Algoritmos\\Insercion\\Insercion\\Insercion.cpp",
               "RelativeToolTip": "Insercion\\Insercion.cpp",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAswBMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswCMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-29T20:24:12.308Z",
               "EditorCaption": ""

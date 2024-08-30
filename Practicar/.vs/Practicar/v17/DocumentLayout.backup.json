@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Escritorio\\Github\\Algoritmos\\Practicar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCC3D3A-5DE9-42EB-A051-E4780A51976E}|Practicar\\Practicar.vcxproj|C:\\Users\\HP\\OneDrive\\Escritorio\\Github\\Algoritmos\\Practicar\\Practicar\\Practicar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDCC3D3A-5DE9-42EB-A051-E4780A51976E}|Practicar\\Practicar.vcxproj|solutionrelative:Practicar\\Practicar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Practicar.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Escritorio\\Github\\Algoritmos\\Practicar\\Practicar\\Practicar.cpp",
+              "RelativeDocumentMoniker": "Practicar\\Practicar.cpp",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Escritorio\\Github\\Algoritmos\\Practicar\\Practicar\\Practicar.cpp",
+              "RelativeToolTip": "Practicar\\Practicar.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T12:31:55.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
